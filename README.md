@@ -18,3 +18,13 @@
 료(ra), 9051,2499,TnET와 같은 잘못 표시된 사각형들과 라벨은 모두 지운다.<br>
 ![image](https://github.com/ili0820/a/assets/65278309/a5f7a0b6-4cf9-433f-b36c-5661fa699426)
 
+
+
+https://devocean.sk.com/blog/techBoardDetail.do?ID=164615
+```python
+conda config --add channels conda-forge
+conda config --set channel_priority strict
+conda config --remove channels defaults
+conda config --show channels
+
+```
